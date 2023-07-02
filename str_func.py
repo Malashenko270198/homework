@@ -1,7 +1,6 @@
 def func(function):
     """
-    :param function:
-    :return:
+    function
     """
     return function.title()
 
@@ -12,3 +11,11 @@ def func_2(function):
     :return:
     """
     return function.upper()
+
+
+def func_clone(function):
+    """
+    :param function:
+    :return:
+    """
+    return function.title()
